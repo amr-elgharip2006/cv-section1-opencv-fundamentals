@@ -1,6 +1,6 @@
 # Computer Vision — Section 1 Exercises (OpenCV Fundamentals)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amr-elgharip2006/cv-section1-opencv-fundamentals/blob/main/CV_Section1_Exercises_Amr.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amr-elgharip2006/cv-section1-opencv-fundamentals/blob/main/CV_Section1_Solutions.ipynb)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 
@@ -9,6 +9,8 @@
 **Student:** Amr Ahmed Elgharip
 
 > حل الـ 7 Exercises بتوع Section 1، وتمرين السلايد 14، والـ Starter template.
+
+> ⚡ **Solutions only:** [`CV_Section1_Solutions.ipynb`](CV_Section1_Solutions.ipynb) — the Colab badge opens this one. The full section notebook with the solutions at the end is kept too.
 
 The solutions are in [`CV_Section1_Exercises_Amr.ipynb`](CV_Section1_Exercises_Amr.ipynb), under **"Solutions — Amr"** at the end of the notebook.
 They use OpenCV's sample image **`fruits.jpg`**, which is downloaded automatically, so the notebook runs in Colab **without an upload**.
